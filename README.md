@@ -1,3 +1,3 @@
 `Meet The Facts`
 
-[![](https://the-nameless-spectre-github-readme-stats.vercel.app/api?username=THE-NAMELESS-SPECTRE&show_icons=true&theme=tokyonight)](https://github.com/THE-NAMELESS-SPECTRE)
+[![](https://frti64-github-readme-stats.vercel.app/api?username=FRTI64&show_icons=true&theme=tokyonight)](https://github.com/FRTI64)
